@@ -1,0 +1,36 @@
+.job-description {
+  max-width: 1000px;
+  margin-top: 30px;
+  line-height: 1.7;
+  color: #000;
+}
+
+.job-description h1,
+.job-description h2,
+.job-description h3,
+.job-description h4 {
+  margin-top: 30px;
+  margin-bottom: 12px;
+  color: Black;
+}
+
+.job-description p {
+  margin-bottom: 18px;
+}
+
+.job-description ul {
+  padding-left: 24px;
+  margin-bottom: 20px;
+}
+
+.job-description li {
+  margin-bottom: 10px;
+}
+
+.job-description a {
+  color: #4da3ff;
+}
+
+.job-description strong {
+  color: Black;
+}

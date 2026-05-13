@@ -1,0 +1,120 @@
+Jason Lore
+Vancouver, WA
+LinkedIn: linkedin.com/in/jasonlore
+GitHub: github.com/jasoffen
+
+Professional Summary
+
+Infrastructure and networking-focused technical professional with experience spanning fiber optic deployment, Microsoft enterprise support, backend development, automation tooling, and Linux-based infrastructure systems. Experienced working in high-severity technical support environments and troubleshooting complex connectivity, systems, and customer-impacting issues.
+
+Hands-on experience with ISP infrastructure, fiber optic testing, routing and switching fundamentals, backend APIs, MongoDB, Node.js, FastAPI, and homelab virtualization environments. Currently pursuing CCNA-level networking knowledge with focus on network automation, infrastructure engineering, DevNet, and backend infrastructure tooling.
+
+Target Roles
+
+* Network Automation Engineer
+* Infrastructure Engineer
+* DevNet Engineer
+* NOC Engineer / NOC Technician
+* Data Center Technician
+* Junior DevOps Engineer
+* Backend Infrastructure Engineer
+* Systems Administrator
+* Fiber Network Engineer
+
+Core Technical Skills
+
+Networking & Infrastructure
+
+* TCP/IP
+* Routing & Switching Fundamentals
+* VLANs
+* Subnetting
+* DNS / DHCP
+* Fiber Optic Installation & Troubleshooting
+* PON Networks
+* ONT Provisioning & Troubleshooting
+* Cisco Networking Labs
+* Linux Systems
+* Proxmox Virtualization
+* Systemd Services
+* Infrastructure Troubleshooting
+
+Programming & Automation
+
+* JavaScript
+* Node.js
+* Express.js
+* Python
+* FastAPI
+* REST APIs
+* MongoDB
+* SQL & NoSQL Databases
+* PowerShell
+* Automation Workflows
+* Selenium
+* Git / GitHub
+
+Cloud & Enterprise Technologies
+
+* Microsoft Azure
+* Microsoft 365
+* Azure AD / AD Connect
+* Enterprise Technical Support
+* Identity & Access Fundamentals
+* Windows Administration
+
+Professional Experience
+
+Lumen Technologies — Enhanced Premise Technician (EPT)
+September 2024 – Present | Vancouver, WA
+
+* Install, activate, and troubleshoot fiber-optic internet and voice services
+* Perform fiber signal testing using IOLM, PON meters, and light-level testing equipment
+* Troubleshoot customer networking and connectivity issues
+* Configure and validate ISP-provided networking hardware and ONT equipment
+* Work directly with physical layer and last-mile infrastructure systems
+
+Mural Consulting / Microsoft — L3 Support Engineer
+August 2023 – May 2024
+
+* Supported enterprise Microsoft environments and customer-impacting technical issues
+* Troubleshot advanced cloud, identity, and infrastructure-related incidents
+* Worked within high-severity escalation environments
+* Assisted with technical troubleshooting, customer communication, and issue resolution processes
+* Contributed to internal tooling and automation workflows
+
+Mural Consulting / Microsoft — L2 Support Engineer Manager
+January 2023 – July 2023
+
+* Managed escalation workflows and technical support operations
+* Assisted support engineers with troubleshooting complex technical issues
+* Coordinated issue resolution and knowledge sharing
+
+Mural Consulting — Software Developer
+August 2023 – May 2024
+
+* Developed internal tools and backend services
+* Worked with Node.js, APIs, databases, and automation tooling
+* Assisted with process automation and workflow improvements
+
+Education & Certifications
+
+University of Arizona
+Full Stack Development Certification
+Completed March 2023
+
+Microsoft 365 Certified: Fundamentals (MS-900)
+Completed February 2024
+
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+Completed February 2024
+
+Current Focus Areas
+
+* CCNA Studies
+* Network Automation
+* Infrastructure Engineering
+* Backend Infrastructure Tooling
+* Linux & Virtualization
+* AI-Assisted Workflow Automation
+* Datacenter Networking
